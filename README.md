@@ -1,6 +1,9 @@
-# CPE_2016_Matchstick
+# matchstick_2016
 
-Le principe est de faire un jeu ou le but est de ne pas tirer 
-le dernier baton si l'on souhaite gagner :p
+le but est de créer un mini-jeu avec des batons (comme dans Fort Boyard). 
+le but du jeu étant de ne pas tirer le dernier baton si l'on souhaite gagner.
 
-# algo ZOR (sans utiliser l'opérateur)
+Humain VS AI  ou  Humain vs Humain
+
+- AI utilise l'algo ZOR 
+(comparaison bit par bit de la position gagnante)
